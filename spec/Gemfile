@@ -1,5 +1,5 @@
 source :rubygems
 
 gem 'nokogiri'
-gem 'fakeweb'
+gem "fakeweb"
 gem 'debugger'
